@@ -51,6 +51,9 @@ Tipos de processamento de imagem:
 * Rápido
 * Objetivo
 
+- [VisionAI](https://cloud.google.com/vision?hl=pt-BR)
+- [Filme Roma](https://www.youtube.com/watch?v=dxp0USnENQM&pp=ygUZcm9tYSBjb2xvcml6YcOnw6NvIG9wZW5jdg%3D%3D)
+  
 ### Observações
 
 *Ocr: Processo de pegar o texto de uma imagem e transformar em editável*
