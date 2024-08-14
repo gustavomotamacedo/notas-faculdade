@@ -1,5 +1,7 @@
 # Computação gráfica 001
 
+[Pagina inicial](https://gustavomotamacedo.github.io/notas-faculdade)
+
 > A continuação do processamento de imagens
 
 Uma imagem pode ser definida como função bidimenssional f(x, y). Quando x, y e os valores de intensidade de f são quantidades finitas e discretas, chamamos de imagem digital.
