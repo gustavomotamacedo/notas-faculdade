@@ -1,10 +1,6 @@
 # Seminário de Computação Gráfica
 
-> Christian, Gabriel, Gustavo, Jennifer, William  
-
-## Tema 3: Transformações geométricas 2D
-
-**DATA : 04/09**
+[Pagina inicial](https://gustavomotamacedo.github.io/notas-faculdade/)
 
 O seminário vale 3.0 pontos na A2. A nota não é individual.
 
