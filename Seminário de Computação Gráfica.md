@@ -58,6 +58,8 @@ Você primeiro mostra o negócio funcionando e depois explica o código.
 
 **Uso de IA na área**
 
+Traga ferramentas, não apenas diga que elas podem ser usadas.
+
 **Uso de IA no trabalho**
 
 Caso você tenha usado IA no seu trabalho, faça um slide explicando como você usou e para que. Não usar para criar os slides.
